@@ -9,7 +9,6 @@ tagline:             'A Graph-based Dataset of Commit History of Real-World Andr
 description:         'AndroidTimeMachine — A Graph-based Dataset of Commit History of Real-World Android apps'
 url:                 https://androidtimemachine.github.io
 baseurl:             ''
-paginate:            5
 
 # About/contact
 author:
