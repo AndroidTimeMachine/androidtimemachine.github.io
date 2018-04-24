@@ -568,6 +568,12 @@ img.team-member {
     width: 240px;
 }
 
+img.logo {
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 @media (max-width: 480px) {
     img.team-member {
         float: none;
