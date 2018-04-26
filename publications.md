@@ -5,6 +5,8 @@ title: Publications
 
 ### [A Graph-based Dataset of Commit History of Real-World Android apps](/public/publications/MSR_2018.pdf)
 
+**Please cite this paper if you used this dataset.**
+
 <cite>
     Franz-Xaver Geiger, Ivano Malavolta, Luca Pascarella, Fabio Palomba, Dario Di Nucci, Ivano Malavolta, and Alberto Bacchelli.
     2018.
