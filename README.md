@@ -16,3 +16,10 @@ and follow the [guide to accessing _AndroidTimeMachine_ data](/guide).
 
 _AndroidTimeMachine_ is presented at [the data showcase track of MSR 2018](/publications#a-graph-based-dataset-of-commit-history-of-real-world-android-apps).
 Based on this dataset we additionally built a [classifier for self-reported activities of Android developers](/publications#self-reported-activities-of-android-developers).
+
+---
+
+![Vrije Universiteit Amsterdam](/logo/vuamsterdam.svg){: .unilogo}
+![Vrije Universiteit Brussel](/logo/vubrussel.svg){: .unilogo}
+![TU Delft](/logo/tudelft.svg){: .unilogo}
+![University of Zurich](logo/uzh.svg){: .unilogo}

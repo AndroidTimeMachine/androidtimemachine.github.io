@@ -584,10 +584,19 @@ img.logo {
     margin-right: auto;
 }
 
+.unilogo {
+    height: 2.8em;
+    display: inline-block;
+    margin-left: .3em;
+}
+
 @media (max-width: 38em) {
     .team-member {
         display: block;
         width: auto;
+    }
+    .unilogo {
+        display: block;
     }
 }
 
