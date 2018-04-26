@@ -15,5 +15,8 @@ author:
   name:              Franz-Xaver Geiger
   email:             f.geiger@student.vu.nl
 
+collections:
+  - authors
+
 # Custom vars
 version:             1.0.0

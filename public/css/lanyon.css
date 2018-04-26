@@ -563,9 +563,19 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-img.team-member {
-    float: right;
-    width: 240px;
+.team-member {
+    display: inline-block;
+    width: 40%;
+    margin: 2%;
+    vertical-align: top;
+}
+
+.team-member img {
+    width: 160px;
+}
+
+.team-member dd {
+    word-wrap: break-word;
 }
 
 img.logo {
@@ -574,11 +584,10 @@ img.logo {
     margin-right: auto;
 }
 
-@media (max-width: 480px) {
-    img.team-member {
-        float: none;
-        margin-left: auto;
-        margin-right: auto;
+@media (max-width: 38em) {
+    .team-member {
+        display: block;
+        width: auto;
     }
 }
 

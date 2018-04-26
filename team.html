@@ -1,0 +1,21 @@
+---
+layout: page
+title: Team
+---
+
+{% for author in site.authors %}
+    <div id="{{ author.title | slugify }}" class="team-member">
+        <h2>{{ author.title }}</h2>
+        <img alt="{{ author.title }}" src="{{ author.image }}" />
+        <dl>
+            <dt>Country</dt>
+            <dd>{{ author.country }}</dd>
+            <dt>Affiliation</dt>
+            <dd>{{ author.affiliation }}</dd>
+            <dt>Personal website</dt>
+            <dd><a href="{{ author.website }}">{{ author.website | remove: 'http://' | remove: 'https://' }}</a></dd>
+            <dt>Research interests</dt>
+            <dd>{{ author.interests }}</dd>
+        </dl>
+    </div>
+{% endfor %}
