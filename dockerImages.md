@@ -29,7 +29,7 @@ This image containing Git repositories is [built from a fork](https://github.com
 
 With almost 150GB in size the image containing clones of all Git repositories in the dataset exceeds size limits of Docker Hub and needs to be downloaded and loaded manually:
 
- 1. [Download the image (tar archive, 145GB)](https://www.dropbox.com/s/e9ld70s72mxc85y/docker_gitlab_open_source_android_apps.tar.gz?dl=0)
+ 1. Download the image (tar archive available upon request, 145GB) 
  2. Load the image into Docker: `docker load -i path/to/docker_gitlab_open_source_android_apps.tar.gz`
  3. Use the image as described in the [official Gitlab documentation](https://docs.gitlab.com/omnibus/docker/README.html).
 
