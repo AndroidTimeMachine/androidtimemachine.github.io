@@ -5,6 +5,15 @@ title: Publications
 
 Please [let us know](mailto:i.malavolta@vu.nl) if you use our dataset and we will include your publication in this list.
 
+### [Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User’s Device](https://github.com/S2-group/mobilesoft-2020-iam-replication-package/blob/master/MOBILESoft_iam_2020.pdf)
+
+<cite>
+    Gian Luca Scoccia, Ibrahim Kanj, Ivano Malavolta, and Kaveh Razavi.
+    2020.
+    Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User’s Device.
+    In <em>7th IEEE/ACM International Conference on Mobile Software Engineering and Systems.</em>
+    ACM, New York, NY.
+</cite>
 
 ### [A Graph-based Dataset of Commit History of Real-World Android apps](/public/publications/MSR_2018.pdf)
 
@@ -23,16 +32,6 @@ Please [let us know](mailto:i.malavolta@vu.nl) if you use our dataset and we wil
 * Data is available in [Docker containers](/dockerImages) containing the Neo4j graph database and a Gitlab instance.
 * [Replication package](https://github.com/AndroidTimeMachine/open_source_android_apps)
 * [PDF download](/public/publications/MSR_2018.pdf)
-
-### [Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User’s Device](https://github.com/S2-group/mobilesoft-2020-iam-replication-package/blob/master/MOBILESoft_iam_2020.pdf)
-
-<cite>
-    Gian Luca Scoccia, Ibrahim Kanj, Ivano Malavolta, and Kaveh Razavi.
-    2020.
-    Leave my Apps Alone! A Study on how Android Developers Access Installed Apps on User’s Device.
-    In <em>7th IEEE/ACM International Conference on Mobile Software Engineering and Systems.</em>
-    ACM, New York, NY.
-</cite>
 
 * Presented at [MobileSoft 2020](https://conf.researchr.org/home/mobilesoft-2020).
 * [Replication package](https://github.com/S2-group/mobilesoft-2020-iam-replication-package)
