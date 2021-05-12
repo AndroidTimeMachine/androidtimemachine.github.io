@@ -11,7 +11,7 @@ eases the analysis of the relationships between source code and
 metadata. The dataset is provided as [Docker containers](/dockerImages)
 to improve its accessibility and extensibility.
 
-You can find detailed information on our [data colletion process](/dataset)
+You can find detailed information on our [data collection process](/dataset)
 and follow the [guide to accessing _AndroidTimeMachine_ data](/guide).
 
 _AndroidTimeMachine_ is presented at [the data showcase track of MSR 2018](/publications#a-graph-based-dataset-of-commit-history-of-real-world-android-apps).
